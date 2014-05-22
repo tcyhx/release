@@ -4,8 +4,7 @@
 %The code  has been tested in MATLAB R2013a running on Windows 7(64bit). 
 %- Note:
 %(1) If you plan to use this software or any variant of it, please, refer the following paper:
-%    H. X. Yuan, S. Q. Wu, Nonlocal Random Walks for Semi-Automatic 2D-to-3D Image Conversion, 
-%    submitted to IEEE Transactions on Signal Processing
+%    H. X. Yuan, S. Q. Wu, Nonlocal Random Walks for Semi-Automatic 2D-to-3D Image Conversion
 %(2) We use vlfeat to perform KNN computation, so you must set up vlfeat toolbox, which can be downloaded from:
 %    http://www.vlfeat.org/
 %(3) For any questions, suggestions or bug reports, please, contact yuanhx@mail.ustc.edu.cn
