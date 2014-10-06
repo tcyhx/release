@@ -4,7 +4,7 @@
 - Note:
 (1) The code is based on our paper:
     Yuan H, Wu S, Cheng P, An P, and Bao S, Nonlocal Random Walks for Semi-Automatic 2D-to-3D Image Conversion, 
-    IEEE Signal Processing Letters, 2015, 22(3): 371-374.
+    IEEE Signal Processing Letters, 2015, 22(3): 371-374. 
 (2) Some code is in p-file format. All the source code are available on NRW.
 (4) The code has been tested in MATLAB R2013a running on Windows 7(64bit). 
     
